@@ -12,5 +12,8 @@ _ShinjiBot_ includes :
 > Helpers commands; 
 > Utilities commands
 
+***Message Interaction Commands are called like subcommands in this project.***
+***Slash Interaction Commands are called like commands in this project.***
+
 
 _ShinjiBot_ was written in more than 1700 code lines of ***JavaScript programming language***.
