@@ -1,0 +1,53 @@
+{
+    "gameprefix": ".",
+    "balance": 100,
+    "steal": 10,
+    "work": 25,
+    "gift":15,
+    "fight": 30,
+    "jobs": [
+        "Has pescado 2 horas en el lago local. Vendiste la pesca.", 
+        "Has ayudado a arar el campo para la siembra.",
+        "Barriste unas cuantas calles.",
+        "Ayudaste a recoger las cosechas.",
+        "Acabas de dar una clase de programación orientada a objetos.",
+        "Cuidaste a un niño por medio día.",
+        "Le has instalado el *'guasá'* a un señor de edad.",
+        "Vendiste 80 empanadas.",
+        "Has ingresado a 5 personas a un negocio 'multinivel'."
+    ],
+    "players": [
+        {
+            "name": "prueba1",
+            "balance": 2,
+            "exp": 0,
+            "protection": true,
+            "role": "prueba",
+            "id": 0
+        },
+        {
+            "name": "superadmin",
+            "balance": 99999999999,
+            "exp": 1e123,
+            "protection": false,
+            "role": "superadmin",
+            "id": "1006225623461246279262929669"
+        },
+        {
+            "name": "prueba2",
+            "balance": 22424,
+            "exp": 0,
+            "protection": true,
+            "role": "prueba",
+            "id": 11
+        },
+        {
+            "name": "prueba3",
+            "balance": 14124141412,
+            "exp": 0,
+            "protection": true,
+            "role": "prueba",
+            "id": 1111
+        }
+    ] 
+}

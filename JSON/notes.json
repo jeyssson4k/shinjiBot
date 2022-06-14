@@ -1,0 +1,32 @@
+{
+    "noteprefix": "?",
+    "servernotes": [
+            "Bienvenido a Shinji Notes\n\n",
+            "Para crear una nueva nota\nIngrese en el chat ?new+note+'titulo'+'contenido', separado como se indica.\n",
+            "Para crear una nueva tarea\nIngrese en el chat ?new+task+'tarea'+'completada (y/n)',separado como se indica.\n",
+            "Si quiere marcar una tarea como completada\nIngrese en el chat ?task+complete+'tarea', separado como se indica.\n",
+            "Una vez sea marcada como terminada una tarea, se eliminará de la lista de tareas sin completar.\n",
+            "Si desea eliminar una tarea (terminada o no) o una nota\nIngrese en el chat ?delete+'task/note_title', separado como se indica.\n",
+            "Si desea eliminar todas las notas\nIngrese en el chat ?delete+all, separado como se indica.\n"
+        ],
+    "notes_and_tasks":[
+        {
+            "type": "note",
+            "title": "Nota de ejemplo",
+            "content": "Este es el contenido de la nota.",
+            "completed": null
+        },
+        {
+            "type": "task",
+            "title": "Tarea de ejemplo sin completar",
+            "content": null,
+            "completed": false
+        },
+        {
+            "type": "task",
+            "title": "Tarea de ejemplo completada",
+            "content": null,
+            "completed": true
+        }
+    ]
+}

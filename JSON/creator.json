@@ -1,0 +1,94 @@
+{
+    "socialmedia_links": [
+        {
+            "name": "youtube",
+            "link": "https://www.youtube.com/c/jeyssson"
+        },
+        {
+            "name": "github",
+            "link": "https://github.com/jeyssson4k"
+        },
+        {
+            "name": "linkedin",
+            "link": "https://www.linkedin.com/in/jeyssson/"
+        },
+        {
+            "name": "portfolio",
+            "link": "https://landingjfweb.netlify.app"
+        },
+        {
+            "name": "behance",
+            "link": "https://www.behance.net/itstheyoungxd"
+        },
+        {
+            "name": "dribbble",
+            "link": "https://dribbble.com/Jeyssson"
+        },
+        {
+            "name": "brainly",
+            "link": "https://brainly.lat/app/profile/4087899/answers"
+        },
+        {
+            "name": "replit",
+            "link": "https://replit.com/@JeyssonFernande"
+        }
+
+    ],
+    "bibliography": [
+        "https://www.codegrepper.com/code-examples/javascript/get+emoji+discordjs+v12",
+        "https://discord.com/developers/docs/topics/opcodes-and-status-codes",
+        "https://discordjs.guide",
+        "https://discord.js.org/#/docs/discord.js/stable/class/Guild",
+        "https://discord.js.org/#/docs/discord.js/stable/class/GuildChannelManager",
+        "https://discord.js.org/#/docs/discord.js/stable/class/GuildMemberManager",
+        "https://discord.js.org/#/docs/discord.js/stable/class/GuildManager",
+        "https://discord.js.org/#/docs/discord.js/stable/class/GuildMemberRoleManager",
+        "https://nodejs.org/dist/latest-v16.x/docs/api/",
+        "https://discordjs.guide/popular-topics/permissions.html#checking-for-permissions",
+        "https://github.com/platzi/curso-asincronismo-js/blob/clase-11/src/async/challenge.js",
+        "https://any-api.com",
+        "https://docs.thecatapi.com",
+        "https://openweathermap.org/current",
+        "https://developer.musixmatch.com/documentation/input-parameters",
+        "https://docs.jdoodle.com/compiler-api/compiler-api",
+        "https://github.com/tonsky/FiraCode"
+    ],
+    "commands_and_subcommands": {
+        "slash_commands": [
+            "addreminder","askme","ban",
+            "calc","compile","delete",
+            "editnick","github","help",
+            "kick","lucky","lyric",
+            "meow","ping","randomcolor",
+            "serverinfo","shinjirank","ty",
+            "weather","whois"
+        ],
+        "dot_subcommands": [
+            "catto $amount","append","protect",
+            "work","buy $role","1414213562",
+            "3141592653589793","poker $cards $cash","diceroller $number $dices $cash",
+            "coinflip $option $cash"
+        ],
+        "qst_subcommands": [
+            "new $type $title $content/completed","help","show $type",
+            "delete $title/all","complete $title"
+        ],
+        "exc_subcommands": [
+            "social $media","shinji","bibliography",
+            "finish"
+        ]
+    },
+    "dependencies": [
+        "@discordjs/builders ^0.13.0",
+        "@discordjs/rest ^0.4.1",
+        "discord.js ^13.7.0",
+        "node ^17.7.2",
+        "nodemon ^2.0.16",
+        "npm ^8.11.0",
+        "request ^2.88.2",
+        "JavaScript ES5+"
+    ],
+    "features": [
+        "OpenWeatherAPI","TheCatAPI","JDOODLEAPI","musicxmatchAPI","git","Heroku","Discord"
+    ]
+}

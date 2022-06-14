@@ -1,0 +1,24 @@
+{
+    "guildId": "server id",
+    "ownerId": "owner id",
+    "roleList": {
+        "granjero": "role id",
+        "obrero": "role id",
+        "informatico": "role id"
+    },
+    "loopcampEmojis": {
+        "acostaodepaneko": "emoji id",
+        "fuckcat": "emoji id",
+        "drinkpaneko": "emoji id",
+        "eatpaneko": "emoji id",
+        "idkpaneko": "emoji id",
+        "screampaneko": "emoji id",
+        "kisspaneko": "emoji id",
+        "lovepaneko": "emoji id",
+        "fpaneko": "emoji id",
+        "hellopaneko": "emoji id"
+
+    },
+    "shinjiLogs": "channel id",
+    "defaultRole": "role id"
+}
