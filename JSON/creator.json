@@ -86,7 +86,7 @@
         "nodemon ^2.0.16",
         "npm ^8.11.0",
         "request ^2.88.2",
-        "JavaScript ES5+"
+        "JavaScript ES6+"
     ],
     "features": [
         "OpenWeatherAPI","TheCatAPI","JDOODLEAPI","musicxmatchAPI","git","Heroku","Discord"

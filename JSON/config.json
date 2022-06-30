@@ -1,10 +1,10 @@
 {
-    "clientId" : "discord bot client id goes here",
-    "guildId" : "discord server id goes here",
-	"token": "discord bot secret token goes here",
-    "CAT_API_KEY": "it's a thecat api key",
-    "WEATHER_API_KEY": "it's a open weather api key",
-    "MUSIC_API_KEY": "it's a musicxmatch api key",
-    "JDOODLE_CLIENT_ID": "it's a jdoodle api client id",
-    "JDOODLE_SECRET_CLIENT": "it's a jdoodle api secret client"
+    "clientId" : "Bot id here. Get in discord developers",
+    "guildId" : "Server id here",
+	"token": "Token id here. Get in discord developers",
+    "CAT_API_KEY": "TheCatApi Key here",
+    "WEATHER_API_KEY": "OpenWeather API Key here",
+    "MUSIC_API_KEY": "Musicxmatch API Key here",
+    "JDOODLE_CLIENT_ID": "JDOODLE API client id here",
+    "JDOODLE_SECRET_CLIENT": "JDOODLE API secret client here"
 }

@@ -1,24 +1,24 @@
 {
-    "guildId": "server id",
-    "ownerId": "owner id",
+    "guildId": "859981044886142996",
+    "ownerId": "655218623648104448",
     "roleList": {
-        "granjero": "role id",
-        "obrero": "role id",
-        "informatico": "role id"
+        "granjero": "<@&954364150757359696>",
+        "obrero": "<@&984609499723735081>",
+        "informatico": "<@&984609798588883004>"
     },
     "loopcampEmojis": {
-        "acostaodepaneko": "emoji id",
-        "fuckcat": "emoji id",
-        "drinkpaneko": "emoji id",
-        "eatpaneko": "emoji id",
-        "idkpaneko": "emoji id",
-        "screampaneko": "emoji id",
-        "kisspaneko": "emoji id",
-        "lovepaneko": "emoji id",
-        "fpaneko": "emoji id",
-        "hellopaneko": "emoji id"
+        "acostaodepaneko": "<:AcostaoDePaneko:862542416011984928>",
+        "fuckcat": "<:fuckcat:920737219373842452>",
+        "drinkpaneko": "<:TomandoDePaneko:884973803837485086>",
+        "eatpaneko": "<:ComiendoDePaneko:884950419275649034>",
+        "idkpaneko": "<:NoloseDePaneko:884947832526749706>",
+        "screampaneko": "<:AsustaoDePaneko:865792057548734484>",
+        "kisspaneko": "<:BesitoDePaneko:883838251855675442>",
+        "lovepaneko": "<:EnamoraoDePaneko:884948361323638804>",
+        "fpaneko": "<:FDePaneko:883838068757516319>",
+        "hellopaneko": "<:SaludoDePaneko:883837770483793970>"
 
     },
-    "shinjiLogs": "channel id",
-    "defaultRole": "role id"
+    "shinjiLogs": "984603106287448084",
+    "defaultRole": "<@&885324348259450910>"
 }
