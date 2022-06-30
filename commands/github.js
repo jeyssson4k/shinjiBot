@@ -14,7 +14,7 @@ module.exports = {
                         .setLabel('Ver perfil')
                         .setStyle('LINK')
                         // .setDisabled(true)
-                        .setEmoji('emoji')
+                        .setEmoji('920737219373842452')
                         .setURL('https://github.com/jeyssson4k')
                 );
             // await interaction.reply({ content: 'Pong!', components: [row] });
@@ -30,7 +30,7 @@ module.exports = {
 
             await wait(5000);
 
-            await interaction.followUp('Recuerda dar follow para ver mis próximos proyectos públicos');
+            await interaction.followUp('Recuerda dar follow para ver mis próximos proyectos públicos <:fuckcat:920737219373842452>');
             
         }
 }
