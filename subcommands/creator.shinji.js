@@ -3,13 +3,6 @@
 ***** ShinjiMessageInteractions
 *****
 ***** prefix { ! }
-***** Subcommand 1: Verify if user is already created
-***** Subcommand 2: Protect user's balance
-***** Subcommand 3: Work 
-***** Subcommand 4: Buy
-***** Subcommand 5: AdminGenerator
-***** Subcommand 6: SuperadminGenerator
-***** Subcommand 7: PokerGame
 *****
 *****
 *****
