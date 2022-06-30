@@ -36,8 +36,8 @@ module.exports.creator = {
     },
     __shinji: async interaction =>{
         try{
-            const owner = interaction.guild.members.cache.find(member => member.id === ownerId);
-            await interaction.guild.channels.cache.get(interaction.channelId).send(`***ShinjiBot v1.0.0: Desarrollado por ${owner}*** ${loopcampEmojis.eatpaneko}`);
+            //const owner = interaction.guild.members.cache.find(member => member.id === ownerId);
+            await interaction.guild.channels.cache.get(interaction.channelId).send(`***ShinjiBot v1.0.0: Desarrollado por <@655218623648104448>*** ${loopcampEmojis.eatpaneko}`);
             await wait(2000);
             await interaction.guild.channels.cache.get(interaction.channelId).send(`***SlashCommands incluídos en ShinjiBot:***`);
             await wait(1000);
