@@ -263,7 +263,7 @@ module.exports.minigame = {
     },
     __coinflip : async (interaction, coin, money) =>{
       try{
-        if(!isNaN(money) && money <= 0){
+        if(!isNaN(money) && money >= 0){
           const playergame = players.find(user => user.id === interaction.author.id);
           if(playergame.balance < money) return;
 
